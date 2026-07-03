@@ -17,6 +17,11 @@ A static front-end clone of Amazon's website, built purely with **HTML** and **C
 This is a **UI/UX clone for educational purposes only** — it does not include any real functionality (cart system, payments, backend, etc.) and is not affiliated with Amazon in any way.
 
 ## 📷 Preview
+<img width="1440" height="860" alt="Screenshot 2026-07-03 at 4 06 03 PM" src="https://github.com/user-attachments/assets/9ffcd0e4-038c-44c5-a74e-7f54f67074ff" />
+
+<img width="1440" height="862" alt="Screenshot 2026-07-03 at 4 06 56 PM" src="https://github.com/user-attachments/assets/f1ef2c35-1a80-41f3-9db7-a2b0ee0b6e5d" />
+
+
 
 
 ## 🚀 Live Demo
