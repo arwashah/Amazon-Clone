@@ -18,6 +18,7 @@ This is a **UI/UX clone for educational purposes only** — it does not include 
 
 ## 📷 Preview
 <img width="1000" height="500" alt="Screenshot 2026-07-03 at 4 06 03 PM" src="https://github.com/user-attachments/assets/9ffcd0e4-038c-44c5-a74e-7f54f67074ff" />
+<br>
 
 <img width="1000" height="500" alt="Screenshot 2026-07-03 at 4 06 56 PM" src="https://github.com/user-attachments/assets/f1ef2c35-1a80-41f3-9db7-a2b0ee0b6e5d" />
 
