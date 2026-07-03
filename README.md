@@ -20,4 +20,5 @@ This is a **UI/UX clone for educational purposes only** — it does not include 
 
 
 ## 🚀 Live Demo
+https://arwashah.github.io/Amazon-Clone/amazonclone.html
 
